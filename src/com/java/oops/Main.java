@@ -45,7 +45,7 @@ public class Main {
         System.out.println("category =" + product2.category);
         System.out.println("ratings =" + product2.ratings);
         System.out.println("max retail price =" + product2.maxRetailPrice);
-        System.out.println("Discount percentage = " + product2.discountPercentage);
+        System.out.println("Discount  percentage = " + product2.discountPercentage);
         System.out.println("\n");
 
 
